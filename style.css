@@ -1,0 +1,10 @@
+body {
+  background-color: #25c7cf;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+button {
+  background: #44ab32;
+}
